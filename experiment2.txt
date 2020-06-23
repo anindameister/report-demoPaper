@@ -1,0 +1,6 @@
+Qanswer is a "knowledge (or ontology) based" QA system. A knowledge base is a collection of facts that can be interpreted by a machine. Such a fact can look like this:"Alan Turing" "student of" "Alonzo Church" 
+Qanswer has million of such facts and we use them to find an answer to your question. A big advantage over traditional search engines is that different information can be combined so that we can answer questions like 'Who was a student of Alonzo Church?'.Qanswer is using as an underlying dataset Wikidata and openstreetmap data covering Europe. Wikidata contains structured knowledge about many existing entities like the European Union. It contains information such as, the capital is Brussel. This information is converted into the triple"European Union" "capital" "Brussel" 
+allowing us to answer a question like 'What is the capital of the EU?'. All information about the European Union contained in Wikidata can be found here.
+
+
+Search system and QA system are two different things, yet many criticisms of search seem to assume that it should behave like QA system. It shouldn’t, and we would be poorer if it did.

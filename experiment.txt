@@ -1,0 +1,62 @@
+
+
+
+
+
+There are mainly two reasons for that. The first is that we simply do not have the data to answer it. We generally try to find the best interpretation of your question based on the data we use. If we do not have the data also the interpretation will be wrong. The second reason is that we have the data but we are not able to correctly interpret your question. We are trying to improve over time the quality of the QA system by adding new datasets and by refining the algorithm that interpretes your question. So hopfully next time it works ; )
+
+How good is this question QA systems compared to other reasearch projects ?
+Give a look to this file, it contains the performance of this system on some popular benchmarks.
+
+Can I use this system?
+The code is not open source, but we are happy for any collaboration to extend this system to other Knowledge Bases. You can contact us at info@qanswer.eu if you are interested in any collaboration. Moreover we have an open API:
+
+ curl --data "query=Who is the wife of Barack Obama" http://qanswer-core1.univ-st-etienne.fr/api/gerbil 
+which support the following parameters:
+
+ query: for the question 
+ lang: for the language (currently en, fr, de, it, es, zh are supported) 
+ kb: for the knowledge-base (currently dbpedia, wikidata, dblp, and freebase are supported) 
+Don't hesitate to contact us if you have any question!
+
+I have a question?
+You can contact me under dennis.diefenbach@univ-st-etienne.fr.
+
+·Home
+
+
+
+
+Search and query are two different things, yet many criticisms of search seem to assume that it should behave like query. It shouldn’t, and we would be poorer if it did.
+
+I am, of course, using the words “search” and “query” in a somewhat specialized sense here. By query, I mean a formal database query, which is addressed in formal terms to a specific data set. Queries are expressed in formal query languages such as SQL or XQuery. A search, on the other hand, is a string typed into a search box.
+
+Behind the scenes, of course, the search engine is executing queries to fulfill the search request, but those queries are being executed against structured indexes of unstructured content. You can’t directly execute a structured query against unstructured data.
+
+Advanced search forms (also called parametric or faceted search) bring many query-like features to search, but advanced search forms are often difficult to use because you usually don’t know exactly what the various form fields mean or what values to put into them. That is the problem with queries. To write an effective query, you have to have a pretty good knowledge of the structure and content of the database you are querying.
+
+So which is better, query or search?
+
+One of the most frequent complaints about search is that it is not precise enough. Properly written queries, on the other hand, are completely precise. A query will give you exactly the result you ask for. Exactly what you asked for, which may or not be exactly what you want. The hardest part of a query is asking the right question.
+
+Search, on the other hand, is not precise. A dumb search just gives you a randomly ordered list of items in which your search term occurs. A smart search will provide you a ranked list of items that are strongly related to the search terms you entered, even if they do not match the exactly. This means that even though some of the results will doubtless be unrelated, and sometimes absurd, there is a very good chance that there is data you can use pretty high up in those results, even if you didn’t ask quite the right question. And there may well be relevant data you didn’t even think to ask for.
+
+Being smart in this way is a key benefit of search. Queries cannot be smart. Queries must always give you exactly what you asked for. There can be no tolerance for serendipity in query results. Search can be smart, but query must be dumb and strictly obedient.
+
+So that means search is better, right?
+
+Not so fast. Queries have a very important quality: because they are precise, they are also reliable. This means that if your data is well structured and your queries are properly written, you don’t have to inspect the data before you use it.  This is hugely important. Most of modern commerce and industry would grind to a halt if human inspection of every query result was required. Queries allow you to specify the behavior of information systems by rule, and those rules can be executed unattended, making vast amounts of automation possible.
+
+Any operation on content can be executed either by rule or by inspection. Operations that require human inspection of data are vastly more expensive than operations that are executed by computers following reliable rules. Queries may be dumber than searches, but, when put to work, they are much much faster.
+
+So queries are better?
+
+It’s not that simple. Queries are fast, but they require precise questions asked of precisely structured data. You can’t query the internet, because the internet is not precisely structured, and you don’t know enough about its content or structure to ask a precise question.  The semantic web initiative is essentially an attempt to create a web that can be queried. It is easy to understand the appeal of this project, but the difficulties are formidable.
+
+Similarly, readers cannot really be expected to query a help system. They do not have enough information, and few have the appropriate experience. Nor are most help systems structured enough to make querying practical. Providing a more intelligent search engine would be a much more practical and effective option. A help system — something that people consult in some state of puzzlement — is exactly where search’s smartness is more valuable than query’s precision.
+
+On the other hand, technical writers could benefit from making a much greater use of queries in their content management activities. The great advantage of queries is that they allow you to process data by rule, without the need to inspect the data. There are a number of content management activities, noticeably reuse and linking, that are generally done by inspecting the content in the content management system. Many writers complain that they spend many hours in the CMS mapping reuse and linking by inspection. If those activities could be done by rule using queries, large amounts of time could be saved. More on that later.
+
+
+
+He continued, “Now, as the search algorithms mature, Google’s mission is to make their results ever more useful to users. To achieve this, their software must start to understand more about the actual world. Who’s an author? What’s a recipe? What do my friends find useful? So the connections between entities become more important. To achieve this Google is using data from initiatives such as schema.org, RDFa and microformats. Google does not use these semantic web techniques to replace their search, but rather to augment it and make it more useful. To get all fancypants about it: Google are starting to promote the information they gather toward being knowledge. They even renamed their search group as ‘Knowledge’.”
