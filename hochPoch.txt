@@ -1,0 +1,4 @@
+In this section, we first describe the application of Qanswer in our work. Then we move onto the input parameter, which is the fundamental work that has been done, given to Qanswer. Following this, we describe our fundamental work which is a result of semantic Web, basic mathematics and the state-of-the-art computer vision api called YOLO(You Only Look Once). Finally, we would talk about the particular wikimedia api which contains human hand-annotated RDFs associated to the million photos.
+
+A screenshot showing most of the presentational elements is shown
+in Figure 1. A live demo can be found at 
