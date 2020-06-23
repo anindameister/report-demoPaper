@@ -26,7 +26,7 @@ if the specific dataset is structured data then we get the right result to "give
 
 
 
-
+got to check, how google searches for pictures
 
  By query, I mean a formal database query, which is addressed in formal terms to a specific data set. Queries are expressed in formal query languages such as SQL or XQuery. A search, on the other hand, is a string typed into a search box.
 
