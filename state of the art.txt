@@ -1,0 +1,35 @@
+the most recent stage in the development of a product, incorporating the newest ideas and features.
+
+Visual Search Engines: This technology use image recognition to provide users with the best search results. Google and Bing being the oldest players in this platform, there are other visual search engines that do the same functions as the bigger players do. For instance, Picsearch is a traditional visual search engine that offers a massive image archive. UK retailer Marks and Spencer recently launched visual search style finder on their store.
+
+So basically these three visual search engines are searching and not querying
+
+tried : give me images of elephant of the left
+
+got few answers along with many more
+
+https://everypageispageone.com/2011/07/13/search-vs-query/
+the above gives seacrh vs queries
+
+so basically Pierre Maret says that :
+1)there exists object recognition techniques that can help to give the position of the objects in the image
+2)describe object identifying techniques
+3)google doesn't use it
+
+my say:
+google uses object recognition techniques in their search engine but the method they use is search and not querying.
+search is equivalent to query against structured indexes of unstructured content.
+But a formal database query, which is addressed in formal terms to a specific data set.
+
+if the specific dataset is structured data then we get the right result to "give me pictures of elephant on the left"
+
+
+
+
+
+
+ By query, I mean a formal database query, which is addressed in formal terms to a specific data set. Queries are expressed in formal query languages such as SQL or XQuery. A search, on the other hand, is a string typed into a search box.
+
+Behind the scenes, of course, the search engine is executing queries to fulfill the search request, but those queries are being executed against structured indexes of unstructured content. You can’t directly execute a structured query against unstructured data.
+
+Advanced search forms (also called parametric or faceted search) bring many query-like features to search, but advanced search forms are often difficult to use because you usually don’t know exactly what the various form fields mean or what values to put into them. That is the problem with queries. To write an effective query, you have to have a pretty good knowledge of the structure and content of the database you are querying.

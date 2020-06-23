@@ -3,3 +3,18 @@ https://qanswer-frontend.univ-st-etienne.fr/faq
 https://everypageispageone.com/2011/07/13/search-vs-query/#:~:text=By%20query%2C%20I%20mean%20a,typed%20into%20a%20search%20box.
 
 https://www.dataversity.net/big-data-the-semantic-web-at-google/
+
+https://program-ace.com/blog/thrilling-machine-learning-and-computer-vision-use-cases/#:~:text=Computer%20Vision%20in%20Healthcare,target%20the%20disease%20more%20precisely.
+
+above shows that computer vision does give the knowledge for it's usage
+my inference: not for querying
+
+https://deepomatic.com/en/what-is-object-recognition-and-how-you-can-use-it/
+just object recognition def
+
+https://analyticsindiamag.com/8-uses-cases-of-image-recognition-that-we-see-in-our-daily-lives/
+last point is a eye catcher
+visual search engine used by google, bing AND  Picsearch
+
+https://queryunderstanding.com/question-answering-94984185c203
+found this while searching for difference between query and QA system.
