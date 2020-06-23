@@ -1,0 +1,12 @@
+Object recognition is the area of artificial intelligence (AI) concerned with the abilities of robots and other AI implementations to recognize various things and entities.
+
+Object recognition allows robots and AI programs to pick out and identify objects from inputs like video and still camera images. Methods used for object identification include 3D models, component identification, edge detection and analysis of appearances from different angles.
+
+Object recognition is at the convergence points of robotics, machine vision, neural networks and AI. Google and Microsoft are among the companies working in the area -- Google’s driverless car and Microsoft’s Kinect system both use object recognition.
+
+Robots that understand their environments can perform more complex tasks better. Major advances of object recognition stand to revolutionize AI and robotics:
+
+MIT has created neural networks, based on our understanding of how the brain works, that allow software to identify objects almost as quickly as primates do.
+Gathered visual data from cloud robotics can allow multiple robots to learn tasks associated with object recognition faster. Robots can also reference massive databases of known objects and that knowledge can be shared among all connected robots.
+Scientists at Brigham Young University have developed an object recognition algorithm that can learn to identify objects on its own. The Evolution-Constructed Features algorithm, as it’s called, can make decisions about what characteristics of an object are relevant to its identification.
+Concerns about the potential of object recognition include fears that advertisers and other interested entities will use the technology to mine the increasing number of images posted online and gather from them the personal information of individuals.

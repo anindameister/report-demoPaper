@@ -18,3 +18,15 @@ visual search engine used by google, bing AND  Picsearch
 
 https://queryunderstanding.com/question-answering-94984185c203
 found this while searching for difference between query and QA system.
+
+https://www.youtube.com/watch?v=gvmfbePC2pc
+https://whatis.techtarget.com/definition/object-recognition?_ga=2.39844192.2138595718.1592928853-1748033464.1592928853
+object-recognition
+
+https://www.geeksforgeeks.org/object-detection-vs-object-recognition-vs-image-segmentation/
+
+object-detection-vs-object-recognition-vs-image-segmentation
+check references as well
+
+https://www.quora.com/How-does-a-Google-image-search-engine-work#:~:text=There%20are%20a%20few%20mechanisms,working%20on%20indexing%20similar%20images.
+how google searches for images

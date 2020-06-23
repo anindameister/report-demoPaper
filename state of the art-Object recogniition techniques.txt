@@ -1,0 +1,5 @@
+Object recognition techniques help to identify objects from inputs like video and still camera images. This can be extended to give the position of an object relative to an image or a video. Further we can establish the position of an object relative to one or more objects in an image or a video.
+
+Right now, Object recognition is at the convergence points of robotics, machine vision, neural networks and AI. Google and Microsoft are among the companies working in the area -- Google’s driverless car and Microsoft’s Kinect system both use object recognition.
+
+Google and Bing use image recognition to provide users with the search results. Picsearch is a traditional visual search engine that offers a massive image archive. 

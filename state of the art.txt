@@ -2,6 +2,11 @@ the most recent stage in the development of a product, incorporating the newest 
 
 Visual Search Engines: This technology use image recognition to provide users with the best search results. Google and Bing being the oldest players in this platform, there are other visual search engines that do the same functions as the bigger players do. For instance, Picsearch is a traditional visual search engine that offers a massive image archive. UK retailer Marks and Spencer recently launched visual search style finder on their store.
 
+
+Visual Search Engines use image recognition to provide users with the best search results. Google and Bing being the oldest players in this platform, there are other visual search engines that do the same functions as the bigger players do. For instance, Picsearch is a traditional visual search engine that offers a massive image archive. 
+
+Image recognition, in the context of machine vision, is the ability of software to identify objects, places, people, writing and actions in images. Computers can use machine vision technologies in combination with a camera and artificial intelligence software to achieve image recognition.
+
 So basically these three visual search engines are searching and not querying
 
 tried : give me images of elephant of the left
