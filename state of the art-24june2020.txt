@@ -1,0 +1,15 @@
+Let's try to understand how does a Google image search engine work.
+There are two ways in this.
+1) Indexing the text surrounding any image and matching it with the given query. If query matches, the corresponding linked image is retrieved. 
+2) Going ahead, in addition to linking text surrounding an image to that image, we can link all visually similar images to that image with the same text.
+e.g. consider an image/photo Img1 on any site with it's surrounding text Txt1. And lets say there are some other images Img2,Img3,Img4 etc. which may or may not have text but their (visual) content matches with the contents of Img1.
+Now for given query, if Txt1 is a good match, the retrieved result can contain Img1 in addition to Img2, Img3, Img4, etc.
+This is just one factor in addition to many other like matching query with text, features used to represent an image, page-rank of page containing an image, relevence, indexed database size available with search engine, etc.
+Huge indexed database availability with Google is one of the reasons why Google can give you best search results.
+Hence, when we ask for pictures of bicycle, we get many photos. However, when we try to search for images of bicycles on the left part of the photo, we get all the bicycle images which may or may not contain a photo of a left hand sided bicycle.
+Thus, we can conclude that google doesn't index their image base, based on object position.
+Qanswer,on the other hand, converts the natural language into triples and use the best ranked SPARQL query to query structured data sources. Hence, when we try to query/search for images of bicycles, we dont get much results; because the query is being made over structured data sources only and the existence of structured data is limited. But, the results are reliable. Now, if we try to search for pictures of bicycle on the left of the image, over Qanswer, then we're also going to get accurate results. The details are explained in the upcoming section. We would just like to say that, as discussed before, it would all start from converting the natural language text into triples; the triples would be then matched with an RDF file embedded within Qanswer. Thereafter, SparQL queries would be generated to make queries over structured data sources based on the RDF file information.
+All our efforts goes to the creation of this one RDF file which makes the difference. This RDF file gives the ability to Qanswer, to do object position detection in an image.This ability makes Qanswer, the best question answering system.
+
+Queries have a very important quality: because they are precise, they are also reliable. This means that if your data is well structured and your queries are properly written, you don’t have to inspect the data before you use it.  This is hugely important. Most of modern commerce and industry would grind to a halt if human inspection of every query result was required. Queries allow you to specify the behavior of information systems by rule, and those rules can be executed unattended, making vast amounts of automation possible.
+
